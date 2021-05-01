@@ -15,4 +15,4 @@ pip install -r requirements.txt
 
 #running the script
 
-python portscanner.py
+python hushscan.py
